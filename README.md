@@ -27,6 +27,7 @@
   - Un pseudo d'utilisateur pour lire uniquement ses messages.
   - Un nombre de messages à récupérer, avec une préférence pour les messages les plus récents (fonctionnement de type pile - LIFO).
 - 🔄 Prise en charge de plusieurs clients
+
 Le serveur fonctionne sur UDP, sans contrôle de flux, et les requêtes sont traitées en temps réel.
 ---
 
