@@ -11,10 +11,7 @@
 - [Prérequis](#-prérequis)
 - [Extensions possibles](#-extensions-possibles)
 - [🛠️ Installation](#️-installation)
-- [▶️ Utilisation](#️-utilisation)
 - [👤 Auteurs](#-auteurs)
-- [🙏 Remerciements](#-remerciements)
-
 ---
 
 ## 📸 Démo
