@@ -80,4 +80,15 @@ Amolitho Baldé
  💼 Étudiant en télécoms & Réseaux
  🔗 LinkedIn(#-https://www.linkedin.com/in/amolithobalde/) | Portfolio(#-https://bamolitho.github.io/portfolio/) 
  
+ ## 👤 Auteur
+
+<img src="[URL_DE_TA_PHOTO](https://media.licdn.com/dms/image/v2/D4E03AQE0RS8O9YuIBQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731164064549?e=2147483647&v=beta&t=fMEQf189uB7uDVPCVnE-b6oShVM7AkfY6y7Ya9Eg9zk)" alt="Amolitho Baldé" width="120" style="border-radius: 50%; margin-right: 15px;" align="left">
+
+**Amolitho Baldé**  
+💼 *Étudiant en Télécoms & Réseaux*  
+🔗 [LinkedIn](https://www.linkedin.com/in/amolithobalde/) | [Portfolio](https://bamolitho.github.io/portfolio/)
+
+<br clear="left"/>
+
+ 
 Ce projet a été réalisé en collaboration avec mon camarade Edmond Kameni Junior.
