@@ -83,8 +83,15 @@ source venv/bin/activate  # ou .\venv\Scripts\activate sous Windows
 **Amolitho Baldé**  
 💼 *Étudiant en Télécommunications & Réseaux*  
 🔗 [LinkedIn](https://www.linkedin.com/in/amolithobalde/) | [Portfolio](https://bamolitho.github.io/portfolio/)
+Université Sorbonne Paris Nord
 
 <br clear="left"/>
 
- 
-Ce projet a été réalisé en collaboration avec mon camarade Edmond Kameni Junior.
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQE6W960oHvj7g/profile-displayphoto-shrink_200_200/B4EZZAPunCHEAg-/0/1744834599732?e=1752710400&v=beta&t=3v_xSXek9HFZZTx0vzI22pzobe7jCrBwBK7u9_5jR3c" alt="Amolitho Baldé" width="120" style="border-radius: 50%; margin-right: 15px;" align="left">
+
+**Edmond Kameni Junior**  
+💼 *Étudiant en Télécommunications & Réseaux*  
+🔗 [LinkedIn]([https://www.linkedin.com/in/amolithobalde/](https://www.linkedin.com/in/edmond-junior-kameni-6715a9278/)) 
+Université Sorbonne Paris Nord
+
+<br clear="left"/>
