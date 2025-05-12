@@ -83,7 +83,7 @@ source venv/bin/activate  # ou .\venv\Scripts\activate sous Windows
 **Amolitho Baldé**  
 💼 *Étudiant en Télécommunications & Réseaux*  
 🔗 [LinkedIn](https://www.linkedin.com/in/amolithobalde/) | [Portfolio](https://bamolitho.github.io/portfolio/)
-Université Sorbonne Paris Nord
+<p>Université Sorbonne Paris Nord</p>
 
 <br clear="left"/>
 
@@ -91,7 +91,7 @@ Université Sorbonne Paris Nord
 
 **Edmond Kameni Junior**  
 💼 *Étudiant en Télécommunications & Réseaux*  
-🔗 [LinkedIn]([https://www.linkedin.com/in/amolithobalde/](https://www.linkedin.com/in/edmond-junior-kameni-6715a9278/)) 
-Université Sorbonne Paris Nord
+🔗 [LinkedIn](https://www.linkedin.com/in/edmond-junior-kameni-6715a9278/)
+<p>Université Sorbonne Paris Nord</p>>
 
 <br clear="left"/>
