@@ -16,7 +16,8 @@
 
 ## 📸 Démo
 
-![Demo](./screenshots/demo.gif)
+![Demo](./screenshots/deux_clients_serveur.png)
+![Demo](./screenshots/deux_clients_publient.png)
 
 ---
 
