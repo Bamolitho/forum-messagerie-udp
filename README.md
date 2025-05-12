@@ -75,17 +75,13 @@ cd nom-du-projet
 python3 -m venv venv
 source venv/bin/activate  # ou .\venv\Scripts\activate sous Windows
 ```
-## 👤 Auteurs
-Amolitho Baldé
- 💼 Étudiant en télécoms & Réseaux
- 🔗 LinkedIn(#-https://www.linkedin.com/in/amolithobalde/) | Portfolio(#-https://bamolitho.github.io/portfolio/) 
  
  ## 👤 Auteur
 
-<img src="[URL_DE_TA_PHOTO](https://media.licdn.com/dms/image/v2/D4E03AQE0RS8O9YuIBQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731164064549?e=2147483647&v=beta&t=fMEQf189uB7uDVPCVnE-b6oShVM7AkfY6y7Ya9Eg9zk)" alt="Amolitho Baldé" width="120" style="border-radius: 50%; margin-right: 15px;" align="left">
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQE0RS8O9YuIBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731164064570?e=1752710400&v=beta&t=SL7J1e3sF2duZ7tIablBmQb0CzHfy6kArP7a2lzcw40" alt="Amolitho Baldé" width="120" style="border-radius: 50%; margin-right: 15px;" align="left">
 
 **Amolitho Baldé**  
-💼 *Étudiant en Télécoms & Réseaux*  
+💼 *Étudiant en Télécommunications & Réseaux*  
 🔗 [LinkedIn](https://www.linkedin.com/in/amolithobalde/) | [Portfolio](https://bamolitho.github.io/portfolio/)
 
 <br clear="left"/>
