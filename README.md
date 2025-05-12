@@ -18,7 +18,7 @@
 La figure suivante montre deux clients qui arrivent sur la page d'acceuil du serveur. Ils ont la possibilité de se connecter ou de s'enregistrer pour commencer à prendre des actions.
 ![Demo](./screenshots/deux_clients_serveur.png)
 
-La figure ci-dessous montre un client qui s'inscrit sur le serveur en choisissant un pseudo et un mot de passe. Il y a une vérification interne qui est effectué pour s'assurer que le mot de passe soit unique.
+La figure ci-dessous montre un client qui s'inscrit sur le serveur en choisissant un pseudo et un mot de passe. Il y a une vérification interne qui est effectuée pour s'assurer que le pseudo soit unique.
 ![Demo](./screenshots/enregistrement_un_client.png)
 
 L'image d'apès montre les différentes actions qu'un client peuvent prendre.
