@@ -76,7 +76,7 @@ python3 -m venv venv
 source venv/bin/activate  # ou .\venv\Scripts\activate sous Windows
 ```
  
- ## 👤 Auteur
+ ## 👤 Auteurs
 
 <img src="https://media.licdn.com/dms/image/v2/D4E03AQE0RS8O9YuIBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731164064570?e=1752710400&v=beta&t=SL7J1e3sF2duZ7tIablBmQb0CzHfy6kArP7a2lzcw40" alt="Amolitho Baldé" width="120" style="border-radius: 50%; margin-right: 15px;" align="left">
 
