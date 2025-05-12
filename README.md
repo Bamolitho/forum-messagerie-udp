@@ -15,8 +15,10 @@
 ---
 
 ## 📸 Démo
-
+La figure suivante montre deux clients qui arrivent sur la page d'acceuil du serveur. Ils ont la possibilité de se connecter ou de s'enregistrer pour commencer à prendre des actions.
 ![Demo](./screenshots/deux_clients_serveur.png)
+
+Maintenant deux clients publient en simultanés sur le serveur et peuvent aussi effectuer d'autres actions comme modifier ou supprimer des messages.
 ![Demo](./screenshots/deux_clients_publient.png)
 
 ---
