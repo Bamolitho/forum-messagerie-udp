@@ -76,4 +76,8 @@ python3 -m venv venv
 source venv/bin/activate  # ou .\venv\Scripts\activate sous Windows
 ```
 ## 👤 Auteurs
+Amolitho Baldé
+ 💼 Étudiant en télécoms & Réseaux
+ 🔗 LinkedIn(#-https://www.linkedin.com/in/amolithobalde/) | Portfolio(#-https://bamolitho.github.io/portfolio/) 
+ 
 Ce projet a été réalisé en collaboration avec mon camarade Edmond Kameni Junior.
